@@ -8,7 +8,7 @@ This repository houses code and materials for analyzing Landsat imagery, produci
 - Generating publication-quality figures
 - Writing clear and reproducible geospatial workflows
 
-![alt text](http://url/to/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npr.org%2F2025%2F01%2F09%2Fnx-s1-5254109%2Fcalifornia-wildfires-palisades-eaton-before-after-satellite-images&psig=AOvVaw3k_FioKsd3H_QFC_ka5dmY&ust=1763760446719000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOjk-uzVgZEDFQAAAAAdAAAAABAM)
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/ef4526e9-3516-44e5-881a-13693b844133" />
 
 
 ## Reprository Structure:
@@ -21,6 +21,9 @@ This repository houses code and materials for analyzing Landsat imagery, produci
         └── Palisades_Perimeter_20250121.shp
     └── eaton_perimeter.md
         └── Eaton_Perimeter_20250121.shp
+
+<img width="293" height="113" alt="Screenshot 2025-11-20 at 1 34 38 PM" src="https://github.com/user-attachments/assets/a9a13407-a309-4c96-8083-20143d6c9e56" />
+
 # Packages Used:
 In this notebook the packages were os, numpy, matplotlib.pyplot, geopandas, xarray, and rioxarray. If you are working on a server that already has `xarray` and `rioxarray`. Being able to import them onto the notebook book should be no issue. If you are working on a localized software for example `VS Code` and have not used `xarray` and `rioxarray` before. Follow these steps, on the terminal:
 
