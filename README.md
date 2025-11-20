@@ -12,6 +12,7 @@ This repository houses code and materials for analyzing Landsat imagery, produci
 
 
 ## Reprository Structure:
+- When downloading data, add the data folder to `.gitignore` to reduce pushing big files onto github.
 
 <img width="293" height="113" alt="Screenshot 2025-11-20 at 1 34 38 PM" src="https://github.com/user-attachments/assets/a9a13407-a309-4c96-8083-20143d6c9e56" />
 
