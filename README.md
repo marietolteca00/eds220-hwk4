@@ -16,9 +16,9 @@ Satellite Imagery of Wildfires:
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/ef4526e9-3516-44e5-881a-13693b844133" />
 
 # Data
-The Landsat .nc file can be downloaded from a shared Google Drive folder provided by the instructor for the course EDS 220 – Working with Environmental Datasets:
+- The Landsat .nc file can be downloaded from a shared Google Drive folder provided by the instructor for the course EDS 220 – Working with Environmental Datasets:
 [Google Drive Link](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP)
-Fire perimeter shapefiles for the Palisades and Eaton fires were obtained from the County of Los Angeles GIS:
+- Fire perimeter shapefiles for the Palisades and Eaton fires were obtained from the County of Los Angeles GIS:
 County [GIS Link](https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about)
 - Each shapefile contains a dissolved fire perimeter for its respective fire and has been added to the data folder in this repository.
 
