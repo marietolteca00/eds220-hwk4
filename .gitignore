@@ -6,8 +6,9 @@
 
 # data folder
 data/
-data2/
 
+# DS_Store
+.DS_Store
 
 # Session Data files
 .RData
