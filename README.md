@@ -24,7 +24,7 @@ County [GIS Link](https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc
 
 ## Repository Structure:
 - **When downloading data, add the data folder to `.gitignore` to reduce pushing big files onto github.**
-
+```
 ├── Chwk4-task2-false-color-TOLTECA.ipynb
 ├── README.md
 └── data
@@ -33,6 +33,7 @@ County [GIS Link](https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc
     │   └── palisades_perimeter.md
     └── Eaton_Perimeter_20250121.shp
         └── eaton_perimeter.md
+```
 
 
 Image of Repository:
