@@ -1,4 +1,7 @@
-# Landsat True and False-Color Imagery with Fire Perimeters in Los Angeles County
+# LA Wildfire and Social Impacts
+
+# Author: Marie Tolteca
+# Date: 12/12/2025
 
 ## About:
 This repository contains code and materials for analyzing Landsat imagery and mapping wildfire perimeters in Los Angeles County. It demonstrates how to:
