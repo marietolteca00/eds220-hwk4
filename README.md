@@ -1,6 +1,6 @@
 # Mapping the 2025 Eaton and Palisades Wildfires in Los Angeles County and Social Impacts
-# Author: Marie Tolteca
-# Date: 12/12/2025
+#### Author: Marie Tolteca
+#### Date: 12/12/2025
 
 ## About:
 This repository contains code and materials for analyzing Landsat imagery and mapping wildfire perimeters in Los Angeles County. It demonstrates how to:
