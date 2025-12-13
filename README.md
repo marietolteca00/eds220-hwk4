@@ -1,5 +1,4 @@
-# LA Wildfire and Social Impacts
-
+# Mapping the 2025 Eaton and Palisades Wildfires in Los Angeles County and Social Impacts
 # Author: Marie Tolteca
 # Date: 12/12/2025
 
@@ -14,7 +13,7 @@ This repository contains code and materials for analyzing Landsat imagery and ma
 
 The focus is on the Eaton and Palisades Fires, combining satellite imagery with official fire perimeter shapefiles to explore fire-affected areas.
 
-Satellite Imagery of Wildfires:
+Satellite imagery shows the Eaton and Palisades wildfires in Los Angeles County (NPR, 2025).
 
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/ef4526e9-3516-44e5-881a-13693b844133" />
 
@@ -28,7 +27,7 @@ County [GIS Link](https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc
 ## Repository Structure:
 - **When downloading data, add the data folder to `.gitignore` to reduce pushing big files onto github.**
 ```
-├── Chwk4-task2-false-color-TOLTECA.ipynb
+├── la_wildifre_and_social_impacts.ipynb
 ├── README.md
 └── data
     ├── landsat8-2025-02-23-palisades-eaton.nc
@@ -36,15 +35,11 @@ County [GIS Link](https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc
     │   └── palisades_perimeter.md
     └── Eaton_Perimeter_20250121.shp
         └── eaton_perimeter.md
+    └── EJI_2024_California
+        └── EJI_2024_California.gdb
 ```
-
-
-Image of Repository:
-
-<img width="293" height="113" alt="Screenshot 2025-11-20 at 1 34 38 PM" src="https://github.com/user-attachments/assets/a9a13407-a309-4c96-8083-20143d6c9e56" />
-
 # Packages Used:
-This notebook uses the following Python packages: `os`, `numpy`, `matplotlib.pyplot`, `geopandas`, `xarray`, and `rioxarray`.
+This notebook uses the following Python packages: `os`, `numpy`, `matplotlib.pyplot`,  `matplotlib.patches`,`geopandas`, `xarray`, and `rioxarray`.
 
 # Highlights:
 - Data exploration of Landsat imagery and shapefiles
